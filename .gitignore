@@ -1,1 +1,13 @@
-/.metadata/
+# Eclipse workspace metadata
+.metadata/
+
+# Eclipse / Java generated files
+bin/
+*/bin/
+.classpath
+.project
+.settings/
+
+# OS junk files
+.DS_Store
+Thumbs.db
