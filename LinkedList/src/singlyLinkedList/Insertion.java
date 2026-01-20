@@ -97,6 +97,7 @@ public class Insertion {
 			insertAtPos(20, 1);
 			insertAtPos(30, 1);
 			insertAtPos(40, 1);
+			break;
 		}
 		printlist();
 	}
